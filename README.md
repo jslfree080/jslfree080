@@ -2,5 +2,5 @@
 ### Personal site: https://www.jslfree080.com
 ## All the best!
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jslfree080.visitor-badge&left_text=My%20Page%20Visitors)
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjslfree080%2Fjslfree080&count_bg=%2374D3FB&title_bg=%23555555&icon=github.svg&icon_color=%2374D3FB&title=Visitors&edge_flat=false"/></a>
 
