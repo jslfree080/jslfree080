@@ -10,7 +10,7 @@
 
 </div>
 
-<div>
+<div style="float: left">
 
 <br>
 <a href="https://github.com/jslfree080"><img src="wavy_line.svg" width="132"></a>
