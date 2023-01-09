@@ -3,7 +3,7 @@
 ## All the best!
 
 <a href="https://github.com/jslfree080">
-    <img align="left" src="wavy_line.svg" width = "380">
+    <img align="left" src="wavy_line.svg" width = "250">
 </a>
 
 <a href="https://hits.seeyoufarm.com">
