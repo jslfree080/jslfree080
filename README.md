@@ -11,5 +11,5 @@
 </a>
 
 <a href="https://hits.seeyoufarm.com">
-    <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjslfree080%2Fjslfree080&count_bg=%2374D3FB&title_bg=%23555555&icon=github.svg&icon_color=%2374D3FB&title=Visitors&edge_flat=false"/>
+    <img align="right" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjslfree080%2Fjslfree080&count_bg=%2361DBFB&title_bg=%23555555&icon=github.svg&icon_color=%2361DBFB&title=Visitors&edge_flat=false"/>
 </a>
