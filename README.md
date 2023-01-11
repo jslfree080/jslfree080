@@ -10,5 +10,5 @@
 </a>
 
 <a>
-    <img src="example.gif" width="35%" height="35%" style="float: left;">
+    <img src="example.gif" width="45%" height="45%" style="float: left;">
 </a>
