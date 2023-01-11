@@ -1,10 +1,7 @@
-# 😺 Greetings! 😸
+# All the best!
 ### Personal site: https://www.jslfree080.com
-## All the best!
 
-<a href="https://github.com/jslfree080">
-    <img align="left" src="wavy_line.svg" width = "110">
-</a>
+<img src="example.gif" width="55%" height="55%">
 
 <a href="https://github.com/anuraghazra/github-readme-stats"> <!-- https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s -->
     <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jslfree080&count_private=true&show_icons=true&theme=react&exclude_repo=bayes" />
