@@ -1,7 +1,7 @@
 # All the best!
 
 <a href="https://github.com/anuraghazra/github-readme-stats"> <!-- https://www.youtube.com/watch?v=n6d4KHSKqGk&t=107s -->
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jslfree080&count_private=true&show_icons=true&theme=react&exclude_repo=bayes" />
+    <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jslfree080&count_private=true&show_icons=true&theme=react&exclude_repo=bayes" />
 </a>
 
 <a href="https://hits.seeyoufarm.com">
