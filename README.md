@@ -9,6 +9,6 @@
     <img src="example.gif" width="50%" height="50%" align="left">
 </a>
 
-<a href="#" style="position: relative; padding: 100px;">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jslfree080&layout=compact&show_icons=true&theme=react&exclude_repo=bayes" style="height:150px" align="right">
+<a>
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jslfree080&layout=compact&show_icons=true&theme=react&exclude_repo=bayes" align="right">
 </a>
