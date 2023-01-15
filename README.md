@@ -6,9 +6,9 @@
 -->
 
 <a>
-    <img src="example.gif" width="48%" height="48%" style="float: left;">
+    <img src="example.gif" width="50%" height="50%" style="float: left;">
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jslfree080&layout=compact&show_icons=true&theme=react&exclude_repo=bayes" />
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jslfree080&layout=compact&show_icons=true&theme=react&exclude_repo=bayes" width="50%" height="50%" style="float: right;">
 </a>
