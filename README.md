@@ -10,5 +10,5 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jslfree080&layout=compact&show_icons=true&theme=react&exclude_repo=bayes" width="50%" height="50%" style="float: right;">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jslfree080&layout=compact&show_icons=true&theme=react&exclude_repo=bayes" width="40%" height="40%" style="float: right;">
 </a>
