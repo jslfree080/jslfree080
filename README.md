@@ -6,7 +6,7 @@
 -->
 
 <a>
-    <img src="example.gif" width="50%" height="50%" style="float: left;">
+    <img src="example.gif" width="50%" height="50%" align="left">
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
