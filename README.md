@@ -12,3 +12,8 @@
 <a>
     <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=jslfree080&layout=compact&show_icons=true&theme=react&exclude_repo=bayes" align="right">
 </a>
+
+<a>
+    <img src="example.png" width="50%" height="50%" align="right">
+</a>
+
