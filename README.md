@@ -14,6 +14,6 @@
 </a>
 
 <a>
-    <img src="example.png" width="50%" height="50%" align="right">
+    <img src="example.png">
 </a>
 
