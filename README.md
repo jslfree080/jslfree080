@@ -5,7 +5,3 @@
 <a>
     <img src="example.png">
 </a>
-
-<a>
-    <img src="example.gif" width="40%" height="40%">
-</a>
