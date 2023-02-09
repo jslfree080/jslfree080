@@ -3,5 +3,5 @@
 -->
 
 <a>
-    <img src="example.png">
+    <img src="example.png" width=600>
 </a>
